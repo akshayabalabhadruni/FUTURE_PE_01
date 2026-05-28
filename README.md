@@ -124,4 +124,4 @@ The framework cleanly mapped out a high-converting, highly accessible interface 
 ![Location Trust & Footer Layout](5th.png)
 
 ---
-*Developed as part of the Future Interns Prompt Engineering Track (Track Code: PE).*
+*Developed as part of the Future Interns Prompt Engineering Track.*
